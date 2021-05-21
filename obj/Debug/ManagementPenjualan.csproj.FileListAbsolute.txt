@@ -1,0 +1,7 @@
+C:\Users\AmaeSchiffer\source\repos\BasicProgramming\ManagementPenjualan\ManagementPenjualan\obj\Debug\ManagementPenjualan.csprojAssemblyReference.cache
+C:\Users\AmaeSchiffer\source\repos\BasicProgramming\ManagementPenjualan\ManagementPenjualan\obj\Debug\ManagementPenjualan.csproj.CoreCompileInputs.cache
+C:\Users\AmaeSchiffer\source\repos\BasicProgramming\ManagementPenjualan\ManagementPenjualan\bin\Debug\ManagementPenjualan.exe.config
+C:\Users\AmaeSchiffer\source\repos\BasicProgramming\ManagementPenjualan\ManagementPenjualan\bin\Debug\ManagementPenjualan.exe
+C:\Users\AmaeSchiffer\source\repos\BasicProgramming\ManagementPenjualan\ManagementPenjualan\bin\Debug\ManagementPenjualan.pdb
+C:\Users\AmaeSchiffer\source\repos\BasicProgramming\ManagementPenjualan\ManagementPenjualan\obj\Debug\ManagementPenjualan.exe
+C:\Users\AmaeSchiffer\source\repos\BasicProgramming\ManagementPenjualan\ManagementPenjualan\obj\Debug\ManagementPenjualan.pdb
